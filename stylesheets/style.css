@@ -126,20 +126,3 @@ nav {
     font-family:'Times New Roman', Times, serif;
     font-size: 22px;
 }
-
-.tab-of-targets {
-    margin: 20px auto;
-    height: 200px;
-    width: 600px;
-    border-collapse: collapse;
-    border-left: 2px solid grey;
-    border-right: 2px solid grey;
-    border-top: 2px solid grey;
-}
-
-.tab-of-targets th {
-    border-bottom: 2px solid grey;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-    text-align: center;
-}
